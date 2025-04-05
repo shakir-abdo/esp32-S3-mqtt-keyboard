@@ -1,4 +1,4 @@
-![Build](https://github.com/KlausMu/esp32-mqtt-keyboard/actions/workflows/build-platformio.yml/badge.svg)
+![Build](https://github.com/OMOTE-Community/esp32-mqtt-keyboard/actions/workflows/build-platformio.yml/badge.svg)
 
 # esp32 mqtt keyboard
 ## Overview
@@ -27,8 +27,8 @@ You can have both ports connected at the same time, even to the same device.
 
 Before uploading, I sometimes had trouble when both ports were connected before. In this case, disconnect both ports and reconnect only "COM". After uploading, you can add the connection to "USB".
 
-![TempControllerModeArduiTouch](https://github.com/KlausMu/esp32-mqtt-keyboard/blob/main/images/ESP32_S3_Back.jpg)
-![TempControllerModeArduiTouch](https://github.com/KlausMu/esp32-mqtt-keyboard/blob/main/images/ESP32_S3_Front.jpg)
+![TempControllerModeArduiTouch](https://github.com/OMOTE-Community/esp32-mqtt-keyboard/blob/main/images/ESP32_S3_Back.jpg)
+![TempControllerModeArduiTouch](https://github.com/OMOTE-Community/esp32-mqtt-keyboard/blob/main/images/ESP32_S3_Front.jpg)
 
 ## Installation
 I used PlatformIO IDE for installation and flashing. Please have a look at <a href="https://docs.platformio.org/en/latest/integration/ide/vscode.html#installation">this guide</a>. It is as simple as:
